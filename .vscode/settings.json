@@ -1,0 +1,13 @@
+{
+    "bracket-pair-colorizer-2.colors": [
+
+        "Gold",
+        "Orchid",
+        "LightSkyBlue"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+    },
+    "eslint.workingDirectories": [
+    ]
+}
